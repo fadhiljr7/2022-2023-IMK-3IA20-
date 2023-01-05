@@ -49,7 +49,7 @@ if search or npm:
         pretest = (680)/7
         posttest = (700)/7
         activity = (620)/7
-        fnlrpt = (380)/7
+        fnlrpt = (460)/7
         exscore = 100
         attdnc = (7/7)*100
         st.write("Name: AFDHALUL ICHSAN YOURDAN")
@@ -79,7 +79,7 @@ if search or npm:
         pretest = (700)/7
         posttest = (700)/7
         activity = (480)/7
-        fnlrpt = (90)/7
+        fnlrpt = (170)/7
         exscore = 0
         attdnc = (7/7)*100
         st.write("Name: AFIF HANUBHOWO PRIHATMORO")
@@ -94,11 +94,11 @@ if search or npm:
         pretest = (680)/7
         posttest = (700)/7
         activity = (670)/7
-        fnlrpt = (565)/7
+        fnlrpt = (645)/7
         exscore = 100
         attdnc = (7/7)*100
         st.write("Name: AHMAD MUHAMAD SALIM ALHADAR")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 1")
+        st.write("Attendance: %.0f" % attdnc, "%")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -109,7 +109,7 @@ if search or npm:
         pretest = (680)/7
         posttest = (700)/7
         activity = (620)/7
-        fnlrpt = (495)/7
+        fnlrpt = (575)/7
         exscore = 100
         attdnc = (7/7)*100
         st.write("Name: ALVIAN DHARMAWAN")
@@ -124,11 +124,11 @@ if search or npm:
         pretest = (680)/7
         posttest = (700)/7
         activity = (580)/7
-        fnlrpt = (545)/7
+        fnlrpt = (625)/7
         exscore = 95
         attdnc = (6/7)*100
         st.write("Name: ALYA KHALISHA MACHFUD")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 3")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -143,7 +143,7 @@ if search or npm:
         exscore = 0
         attdnc = (0/7)*100
         st.write("Name: ANDI ALVIAN PRASETIO")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 1/2/3/4/5/6/7")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -154,7 +154,7 @@ if search or npm:
         pretest = (700)/7
         posttest = (700)/7
         activity = (650)/7
-        fnlrpt = (160)/7
+        fnlrpt = (240)/7
         exscore = 98
         attdnc = (7/7)*100
         st.write("Name: Arika Mulyanti")
@@ -169,7 +169,7 @@ if search or npm:
         pretest = (600)/7
         posttest = (600)/7
         activity = (640)/7
-        fnlrpt = (430)/7
+        fnlrpt = (510)/7
         exscore = 93
         attdnc = (7/7)*100
         st.write("Name: ARIQ NAUFAL FADHLURRAHMAN")
@@ -182,13 +182,13 @@ if search or npm:
 
     elif npm == "50420242":
         pretest = (620)/7
-        posttest = (660)/7
-        activity = (670)/7
-        fnlrpt = (440)/7
+        posttest = (700)/7
+        activity = (530)/7
+        fnlrpt = (80)/7
         exscore = 78
         attdnc = (3/7)*100
         st.write("Name: ARYA RAUFAL HAMDALA")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4/7")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 2/4/5/6")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -196,14 +196,14 @@ if search or npm:
         st.write("Exam Score: ", exscore)
 
     elif npm == "50420274":
-        pretest = (0)/7
-        posttest = (0)/7
-        activity = (0)/7
-        fnlrpt = (0)/7
-        exscore = 0
+        pretest = (620)/7
+        posttest = (660)/7
+        activity = (670)/7
+        fnlrpt = (520)/7
+        exscore = 94
         attdnc = (7/7)*100
         st.write("Name: BAHA WILLIAMS AZAEL")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4")
+        st.write("Attendance: %.0f" % attdnc, "%")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -211,14 +211,14 @@ if search or npm:
         st.write("Exam Score: ", exscore)
 
     elif npm == "50420291":
-        pretest = (460)/7
-        posttest = (460)/7
-        activity = (340)/7
-        fnlrpt = (50)/7
+        pretest = (0)/7
+        posttest = (0)/7
+        activity = (0)/7
+        fnlrpt = (0)/7
         exscore = 0
         attdnc = (0/7)*100
         st.write("Name: BINTANG SAEKAPUTRA")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 1/2/3/4/5/6/7")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -226,14 +226,14 @@ if search or npm:
         st.write("Exam Score: ", exscore)
 
     elif npm == "51420418":
-        pretest = (380)/7
-        posttest = (380)/7
-        activity = (200)/7
-        fnlrpt = (70)/7
+        pretest = (460)/7
+        posttest = (460)/7
+        activity = (130)/7
+        fnlrpt = (340)/7
         exscore = 80
         attdnc = (2/7)*100
         st.write("Name: BINTARA SATRIA NUGROHO")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 3/4/6/7")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 1/2/3/4/5")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -241,14 +241,14 @@ if search or npm:
         st.write("Exam Score: ", exscore)
 
     elif npm == "50420391":
-        pretest = (700)/7
-        posttest = (700)/7
-        activity = (600)/7
-        fnlrpt = (420)/7
+        pretest = (380)/7
+        posttest = (380)/7
+        activity = (200)/7
+        fnlrpt = (150)/7
         exscore = 0
-        attdnc = (4/7)*100
+        attdnc = (5/7)*100
         st.write("Name: DITO RIYANTO RAMADHAN")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 2/6")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -256,10 +256,10 @@ if search or npm:
         st.write("Exam Score: ", exscore)
 
     elif npm == "50420453":
-        pretest = (380)/7
-        posttest = (480)/7
-        activity = (290)/7
-        fnlrpt = (70)/7
+        pretest = (700)/7
+        posttest = (700)/7
+        activity = (600)/7
+        fnlrpt = (500)/7
         exscore = 92
         attdnc = (7/7)*100
         st.write("Name: FALDY ARGADITYA")
@@ -271,14 +271,14 @@ if search or npm:
         st.write("Exam Score: ", exscore)
 
     elif npm == "50420501":
-        pretest = (700)/7
-        posttest = (680)/7
-        activity = (490)/7
-        fnlrpt = (228)/7
+        pretest = (380)/7
+        posttest = (480)/7
+        activity = (290)/7
+        fnlrpt = (150)/7
         exscore = 78
         attdnc = (6/7)*100
         st.write("Name: FITRAH RAMADHANI")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 1")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -286,14 +286,14 @@ if search or npm:
         st.write("Exam Score: ", exscore)
 
     elif npm == "50420539":
-        pretest = (680)/7
-        posttest = (700)/7
-        activity = (600)/7
-        fnlrpt = (100)/7
+        pretest = (700)/7
+        posttest = (680)/7
+        activity = (490)/7
+        fnlrpt = (228)/7
         exscore = 80
         attdnc = (6/7)*100
         st.write("Name: HANIF MUSTAJAB")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -338,7 +338,7 @@ if search or npm:
         exscore = 85
         attdnc = (7/7)*100
         st.write("Name: MOCHAMMAD PUTRA DINA RISDIANTO")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week ")
+        st.write("Attendance: %.0f" % attdnc, "%")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -368,7 +368,7 @@ if search or npm:
         exscore = 78
         attdnc = (3/7)*100
         st.write("Name: MUHAMAD RIZAL FANDIKA")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4/5")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 2/4/5/6")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -383,7 +383,7 @@ if search or npm:
         exscore = 100
         attdnc = (7/7)*100
         st.write("Name: MUHAMMAD ASAD RAMADHAN")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4")
+        st.write("Attendance: %.0f" % attdnc, "%")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -398,7 +398,7 @@ if search or npm:
         exscore = 84
         attdnc = (6/7)*100
         st.write("Name: MUHAMMAD AVIF ROHMADIAWAN")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 6")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -413,7 +413,7 @@ if search or npm:
         exscore = 100
         attdnc = (5/7)*100
         st.write("Name: MUHAMMAD REZA HIDAYAT")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 5")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 5/6")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -443,7 +443,7 @@ if search or npm:
         exscore = 0
         attdnc = (6/7)*100
         st.write("Name: PETRA EUAGGELION DEVON")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 6")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -458,7 +458,7 @@ if search or npm:
         exscore = 0
         attdnc = (0/7)*100
         st.write("Name: PRAMUDYA REIHANSYAH SUNDAFA")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4/5/7")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 1/2/3/4/5/6/7")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -473,7 +473,7 @@ if search or npm:
         exscore = 95
         attdnc = (7/7)*100
         st.write("Name: PRAYOGA DANUARTA")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4")
+        st.write("Attendance: %.0f" % attdnc, "%")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -488,7 +488,7 @@ if search or npm:
         exscore = 100
         attdnc = (6/7)*100
         st.write("Name: RALFATIHANUR ZIAFIQ MAKPAL")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 4")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -518,7 +518,7 @@ if search or npm:
         exscore = 80
         attdnc = (0/7)*100
         st.write("Name: SYAFIQ SHAFWAN FAUZAN")
-        st.write("Attendance: %.0f" % attdnc, "% Absent on week 8")
+        st.write("Attendance: %.0f" % attdnc, "% 1/2/3/4/5/6/7")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
@@ -533,7 +533,7 @@ if search or npm:
         exscore = 78
         attdnc = (0/7)*100
         st.write("Name: YAZID FARHAN MUZAKKY")
-        st.write("Attendance: %.0f" % attdnc, "%")
+        st.write("Attendance: %.0f" % attdnc, "% Absent on week 1/2/3/4/5/6/7")
         st.write("Average pre-test score: %.1f" % pretest)
         st.write("Average post-test score: %.1f" % posttest)
         st.write("Average activity score: %.1f" % activity)
